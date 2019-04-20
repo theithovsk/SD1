@@ -9,7 +9,7 @@ public class TCPServer {
 		try {
 			// args = new String[1];
 			// args[0] = "7088";
-			// Teste
+			// Teste git
 			int serverPort = new Integer(args[0]);
 
 			ServerSocket listenSocket = new ServerSocket(serverPort);
